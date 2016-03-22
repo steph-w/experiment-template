@@ -1,3 +1,5 @@
+#Web Experiment Template for CoCoLab
+
 Inside the _shared are some helper js files, some libraries we call. Some of these are completely external, like jquery and raphael, some of them are written by members of the lab, like mmturkey and utils.
 
 Inside your javascript file for your own experiment, e.g. template.js, you'll write up the structure that the slides have. In template.js, the line
